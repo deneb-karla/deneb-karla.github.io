@@ -1,7 +1,6 @@
-## Welcome to GitHub Pages
-
+## Welcome to the page deneb-karla
 You can use the [editor on GitHub](https://github.com/deneb-karla/deneb-karla.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
+Hola  bienbenidos a mi pagina mi nombre es Paola García me gusta mucho lo que tiene que ver con la computacion y el movito de esta pagina es para un proyect de la escuela y espero que a más personas les funcione como a mi 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
